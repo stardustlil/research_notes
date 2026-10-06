@@ -1,0 +1,9 @@
+# Obsidian local workspace state and deleted notes
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
